@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">todoリスト</string>
+    <string name="hello">Hello</string>
+    <string name="done">完了</string>
+    <string name="add_task">task</string>
+    <string name="title">タイトル</string>
+    <string name="notification">通知設定</string>
+    <string name="date_button">日付</string>
+    <string name="time_button">時刻</string>
+    <string name="addition">保存</string>
+</resources>
