@@ -16,3 +16,9 @@
 
 
 <img width="340" alt="スクリーンショット 2022-06-10 16 57 21" src="https://user-images.githubusercontent.com/107187910/173019220-9c8531aa-5464-498c-95dd-55e1d180479d.png">
+
+#version
+android studio Chipmunk | 2021.2.1
+sqlite 3.28.0
+SDK Platforms Android11.0(R)
+Android SDK Build-Tools 30.0.3
